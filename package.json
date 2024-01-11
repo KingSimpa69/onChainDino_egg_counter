@@ -1,0 +1,12 @@
+{
+  "name": "dino_egg_counter",
+  "version": "4.2.0",
+  "description": "Counts all the dino eggs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node countEggs.js"
+  },
+  "dependencies": {
+    "ethers": "^6.9.2"
+  }
+}
